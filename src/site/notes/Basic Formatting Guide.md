@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/basic-formatting-guide/"}
 ---
 
-TEST
+TEST hi cutie
 
 ```md
 Obsidian is the private and flexible writing app that adapts to the way you think.
@@ -10,8 +10,6 @@ Obsidian is the private and flexible writing app that adapts to the way you thin
 # Sharpen your thinking.
 
 This is a paragraph.
-{ #5d34c6}
-
 
 This is another paragraph.
 
