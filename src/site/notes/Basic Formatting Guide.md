@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/basic-formatting-guide/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/basic-formatting-guide/"}
 ---
 
 TEST
